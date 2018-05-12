@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/875
     wikipedia: http://en.wikipedia.org/wiki/Robert_Erskine_Childers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15086#The-Framework-of-Home-Rule
 gutenberg_issued: '2005-02-17'
 gutenberg_type: Text
 identifiers:
